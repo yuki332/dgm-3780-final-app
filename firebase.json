@@ -1,0 +1,9 @@
+{
+  "firebase": "dgm-journalapp",
+  "public": "public",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
