@@ -4,4 +4,4 @@
 
 to set up enter command `npm install`
 and then enter `npm start` to start local server.
-visit [http://localhost:3000/] : http://localhost:3000/
+visit <http://localhost:3000/>
